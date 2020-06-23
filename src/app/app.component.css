@@ -1,0 +1,11 @@
+
+
+.absolute_wrap {
+  width: 300px;
+  position: absolute;
+  height: 300px;
+}
+
+.scrollable_wrap {
+  height: 100%;
+}
